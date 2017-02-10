@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Batterymanager</string>
+    <string name="battery_description">The estimated usage is very depend on your device settings, surrounding environment, usage patterns and actual device usage</string>
+</resources>
